@@ -1,0 +1,20 @@
+[
+    {
+        "id":"1",
+        "custId":"3",
+        "name":"Rope",
+        "amount":13.70
+    },
+    {
+        "id":"2",
+        "custId":"1",
+        "name":"Pineapple",
+        "amount":4.99
+    },
+    {
+        "id":"3",
+        "custId":"2",
+        "name":"Burger",
+        "amount":10.50
+    }
+]
